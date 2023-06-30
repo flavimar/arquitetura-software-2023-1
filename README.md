@@ -2,8 +2,6 @@
 ## Equipe
   * Flavimar da Silva Almeida
   * Matheus Silvera
-## Objetivo do projeto
-Desenvolver a arquitetura seguindo oque foi aprendido na disciplina de arquitetura de software
 ## Projeto sugerido
 AcheiPet (Software para conectar ONG’s que regatam animais de rua,
 voluntários e tutores)
